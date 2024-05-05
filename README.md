@@ -20,7 +20,3 @@ npx cdk synth
 npx cdk deploy 
 
 ```
-
-## slides
-aurora serverless -> https://aws.amazon.com/rds/aurora/serverless/
-fargate sizing -> https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
